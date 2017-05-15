@@ -37,6 +37,12 @@ namespace DemoFramework.TestScript
             //New Test
         }
 
+        [TestMethod]
+        public void NewTest()
+        {
+            MessageBox.Show("Test Build");
+        }
+
         #region Additional test attributes
 
         // You can use the following additional attributes as you write your tests:
